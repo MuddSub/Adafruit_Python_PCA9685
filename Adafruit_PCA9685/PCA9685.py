@@ -23,7 +23,6 @@ import logging
 import time
 import math
 
-
 # Registers/etc:
 PCA9685_ADDRESS    = 0x40
 MODE1              = 0x00
